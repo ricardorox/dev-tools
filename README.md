@@ -75,7 +75,7 @@
 - [Emmet Cheat Sheet](http://docs.emmet.io/cheat-sheet/)
 - [HTML5 Doctor](http://html5doctor.com/)
 - [HTML Reference](http://htmlreference.io/)
-- [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Mozilla Developer Network](https://developer.mozilla.org/pt-BR/)
 - [W3C](http://www.w3.org/)
 - [Web Platform](https://www.webplatform.org/)
 - [WHATWG](https://whatwg.org/)
@@ -97,9 +97,9 @@
 
 ## Image Generators
 
-- [Character Entities](https://brajeshwar.github.io/entities/) :octocat:
+- [Character Entities](https://brajeshwar.github.io/entities/)
 - [Fontello](http://fontello.com/)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/) :octocat:
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [HTML Arrows](http://htmlarrows.com/)
 - [Icon Moon](https://icomoon.io/)
 
@@ -111,11 +111,12 @@
 - [Lorempixel](http://lorempixel.com/)
 - [Placehold.it](http://placehold.it/)
 - [UI Faces](http://uifaces.com/)
+- [React Icons](https://react-icons.netlify.com/)
 
 ## Image Optimizers
 
 - [Compressor.io](https://compressor.io/)
-- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) :octocat:
+- [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI)
 - [JPEGmini](http://www.jpegmini.com/)
 - [Kraken.io](https://kraken.io/web-interface)
 - [Optimizilla](http://optimizilla.com/)
@@ -190,9 +191,9 @@
 - [Beer Ipsum](http://beeripsum.com/)
 - [Blindtext](http://www.blindtextgenerator.com/lorem-ipsum)
 - [Bluth Ipsum](http://bluthipsum.com/)
-- [Compadre Ipsum](http://compadreipsum.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Compadre Ipsum](http://compadreipsum.com.br/)
 - [Cupcake Ipsum](http://cupcakeipsum.com/)
-- [Dilmês Ipsum](http://dilmesipsum.com.br/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Dilmês Ipsum](http://dilmesipsum.com.br/)
 - [Fifty Shades Ipsum](http://www.fiftyshadesgenerator.com/)
 - [Fillerama Ipsum](http://chrisvalleskey.com/fillerama/)
 - [Fillerati](http://www.fillerati.com/)
@@ -200,10 +201,10 @@
 - [Hipster Ipsum](http://hipsteripsum.me/)
 - [Lebowski Ipsum](http://lebowskiipsum.com/)
 - [Liquor Ipsum](http://liquoripsum.com/)
-- [Lorem Ipsum](http://br.lipsum.com/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Lorem Ipsum](http://br.lipsum.com/)
 - [Lorizzle](http://lorizzle.nl/)
 - [Miojo Ipsum](http://miojoipsum.com/)
-- [Mussum Ipsum](http://mussumipsum.com/) <span>&#x1f1e7;&#x1f1f7;</span>
+- [Mussum Ipsum](http://mussumipsum.com/)
 - [Random Text](http://randomtextgenerator.com/)
 - [Slipsum](http://slipsum.com/)
 - [Swearem Ipsum](http://www.swearemipsum.com/)
