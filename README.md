@@ -59,12 +59,15 @@
 ## CSS Generators
 
 - [Blend](http://colinkeany.com/blend/)
+- [Clip path Generator](https://bennettfeely.com/clippy)
 - [CSS Animate](http://cssanimate.com/)
 - [CSS Border-Radius Generator](http://border-radius.com/)
 - [CSS Button Generator](http://css3buttongenerator.com/)
-- [CSS Gradient Editor ](http://www.colorzilla.com/gradient-editor/)
+- [CSS Gradient Editor](http://www.colorzilla.com/gradient-editor/)
 - [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/)
 - [CSS3 Generator](http://css3generator.com/)
+- [Cubic Bezier Generator](https://cubic-bezier.com)
+- [Neumorphism Generator](https://neumorphism.io)
 - [UIGradients](http://uigradients.com)
 - [WebGradients](https://webgradients.com/)
 
